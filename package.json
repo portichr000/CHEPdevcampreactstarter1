@@ -1,0 +1,26 @@
+{
+  "name": "chepdevcampreactstarter",
+  "version": "0.1.0",
+  "description": "this module allows for dynamic footer to be generated for js applications updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portichr000/CHEPdevcampreactstarter1.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Christian Portillo <chris6por@gmail.com> (https://github.com/portichr000/devcampreactstarter1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/portichr000/CHEPdevcampreactstarter1/issues"
+  },
+  "homepage": "https://github.com/portichr000/CHEPdevcampreactstarter1#readme",
+  "dependencies": {
+    "devcamp-js-footer": "^0.1.0",
+    "moment": "^2.22.2"
+  }
+}
